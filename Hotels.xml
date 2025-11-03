@@ -14,7 +14,7 @@
     </Address>
   </Hotel>
 
-  <Hotel id="h002" Rating="4.4">
+  <Hotel id="h002">
     <Name>Omni Tempe Hotel at ASU</Name>
     <Phone>480-000-0002</Phone>
     <Address>
@@ -27,7 +27,7 @@
     </Address>
   </Hotel>
 
-  <Hotel id="h003">
+  <Hotel id="h003" Rating="4.1">
     <Name>Tempe Mission Palms</Name>
     <Phone>480-000-0003</Phone>
     <Phone>888-000-0003</Phone>
@@ -41,7 +41,7 @@
     </Address>
   </Hotel>
 
-  <Hotel id="h004" Rating="4.0">
+  <Hotel id="h004">
     <Name>Hyatt Place Tempe / Phoenix University</Name>
     <Phone>480-000-0004</Phone>
     <Address>
@@ -54,7 +54,7 @@
     </Address>
   </Hotel>
 
-  <Hotel id="h005">
+  <Hotel id="h005" Rating="4.0">
     <Name>Graduate Tempe</Name>
     <Phone>480-000-0005</Phone>
     <Address>
@@ -67,7 +67,7 @@
     </Address>
   </Hotel>
 
-  <Hotel id="h006" Rating="3.9">
+  <Hotel id="h006">
     <Name>Moxy Phoenix Tempe / ASU Area</Name>
     <Phone>480-000-0006</Phone>
     <Phone>833-000-0006</Phone>
@@ -81,7 +81,7 @@
     </Address>
   </Hotel>
 
-  <Hotel id="h007">
+  <Hotel id="h007" Rating="4.3">
     <Name>AC Hotel Phoenix Tempe / Downtown</Name>
     <Phone>480-000-0007</Phone>
     <Address>
@@ -94,7 +94,7 @@
     </Address>
   </Hotel>
 
-  <Hotel id="h008" Rating="4.1">
+  <Hotel id="h008">
     <Name>Hilton Garden Inn Tempe Downtown</Name>
     <Phone>480-000-0008</Phone>
     <Address>
@@ -107,7 +107,7 @@
     </Address>
   </Hotel>
 
-  <Hotel id="h009">
+  <Hotel id="h009" Rating="4.1">
     <Name>Courtyard by Marriott Tempe Downtown</Name>
     <Phone>480-000-0009</Phone>
     <Address>
@@ -120,7 +120,7 @@
     </Address>
   </Hotel>
 
-  <Hotel id="h010" Rating="4.0">
+  <Hotel id="h010">
     <Name>Residence Inn Tempe Downtown / University</Name>
     <Phone>480-000-0010</Phone>
     <Address>
@@ -133,7 +133,7 @@
     </Address>
   </Hotel>
 
-  <Hotel id="h011">
+  <Hotel id="h011" Rating="4.5">
     <Name>Marriott Phoenix Resort Tempe at The Buttes</Name>
     <Phone>602-000-0011</Phone>
     <Phone>877-000-0011</Phone>
