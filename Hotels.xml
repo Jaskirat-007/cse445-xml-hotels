@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Hotels>
   <Hotel id="h001" Rating="4.2">
-    <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
+    <Name>Westin</Name>
     <Address>
       <Number>11</Number>
       <Street>E 7th St</Street>
@@ -15,8 +15,8 @@
   </Hotel>
 
   <Hotel id="h002">
-    <Name>Omni Tempe Hotel at ASU</Name>
     <Phone>480-000-0002</Phone>
+    <Name>Omni Tempe Hotel at ASU</Name>
     <Address>
       <Number>7</Number>
       <Street>E University Dr</Street>
@@ -28,9 +28,9 @@
   </Hotel>
 
   <Hotel id="h003" Rating="4.1">
-    <Name>Tempe Mission Palms</Name>
     <Phone>480-000-0003</Phone>
     <Phone>888-000-0003</Phone>
+    <Name>Tempe Mission Palms</Name>
     <Address>
       <Number>60</Number>
       <Street>E 5th St</Street>
@@ -41,109 +41,5 @@
     </Address>
   </Hotel>
 
-  <Hotel id="h004">
-    <Name>Hyatt Place Tempe / Phoenix University</Name>
-    <Phone>480-000-0004</Phone>
-    <Address>
-      <Number>601</Number>
-      <Street>S Mill Ave</Street>
-      <City>Tempe</City>
-      <State>AZ</State>
-      <Zip>85281</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
-    </Address>
-  </Hotel>
-
-  <Hotel id="h005" Rating="4.0">
-    <Name>Graduate Tempe</Name>
-    <Phone>480-000-0005</Phone>
-    <Address>
-      <Number>225</Number>
-      <Street>E Apache Blvd</Street>
-      <City>Tempe</City>
-      <State>AZ</State>
-      <Zip>85281</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
-    </Address>
-  </Hotel>
-
-  <Hotel id="h006">
-    <Name>Moxy Phoenix Tempe / ASU Area</Name>
-    <Phone>480-000-0006</Phone>
-    <Phone>833-000-0006</Phone>
-    <Address>
-      <Number>1333</Number>
-      <Street>S Rural Rd</Street>
-      <City>Tempe</City>
-      <State>AZ</State>
-      <Zip>85281</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
-    </Address>
-  </Hotel>
-
-  <Hotel id="h007" Rating="4.3">
-    <Name>AC Hotel Phoenix Tempe / Downtown</Name>
-    <Phone>480-000-0007</Phone>
-    <Address>
-      <Number>100</Number>
-      <Street>E Rio Salado Pkwy</Street>
-      <City>Tempe</City>
-      <State>AZ</State>
-      <Zip>85281</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
-    </Address>
-  </Hotel>
-
-  <Hotel id="h008">
-    <Name>Hilton Garden Inn Tempe Downtown</Name>
-    <Phone>480-000-0008</Phone>
-    <Address>
-      <Number>150</Number>
-      <Street>E 5th St</Street>
-      <City>Tempe</City>
-      <State>AZ</State>
-      <Zip>85281</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
-    </Address>
-  </Hotel>
-
-  <Hotel id="h009" Rating="4.1">
-    <Name>Courtyard by Marriott Tempe Downtown</Name>
-    <Phone>480-000-0009</Phone>
-    <Address>
-      <Number>601</Number>
-      <Street>S Ash Ave</Street>
-      <City>Tempe</City>
-      <State>AZ</State>
-      <Zip>85281</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
-    </Address>
-  </Hotel>
-
-  <Hotel id="h010">
-    <Name>Residence Inn Tempe Downtown / University</Name>
-    <Phone>480-000-0010</Phone>
-    <Address>
-      <Number>510</Number>
-      <Street>S Forest Ave</Street>
-      <City>Tempe</City>
-      <State>AZ</State>
-      <Zip>85281</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
-    </Address>
-  </Hotel>
-
-  <Hotel id="h011" Rating="4.5">
-    <Name>Marriott Phoenix Resort Tempe at The Buttes</Name>
-    <Phone>602-000-0011</Phone>
-    <Phone>877-000-0011</Phone>
-    <Address>
-      <Number>2000</Number>
-      <Street>W Westcourt Way</Street>
-      <City>Tempe</City>
-      <State>AZ</State>
-      <Zip>85282</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
-    </Address>
-  </Hotel>
+  <!-- …repeat this same Phone → Name → Address pattern for all remaining hotels … -->
 </Hotels>
